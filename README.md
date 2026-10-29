@@ -1,0 +1,1 @@
+# filenameguard-windows-proof
